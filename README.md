@@ -11,12 +11,3 @@ Este es un proyecto web que permite a los usuarios agregar nombres de amigos y s
 - **Sortear amigo**: Selecciona un nombre al azar de la lista de amigos.
 - **Interfaz amigable**: Diseño simple y fácil de usar.
 
----
-
-## Instalación
-
-Sigue estos pasos para ejecutar el proyecto en tu máquina local:
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/JuanYanaya88/amigo-secreto.git
